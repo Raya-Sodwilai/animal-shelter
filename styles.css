@@ -1,0 +1,34 @@
+h1 {
+  text-align: center;
+  color: rgb(207, 90, 110);
+}
+
+.container {
+  width: 1000px;
+  height: 1200px;
+  display: block;
+}
+
+.column {
+  border: 2px solid rgb(207, 90, 110);
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  display: block;
+  margin: 15px;
+  width: 400px;
+  height: 500px;
+  box-sizing: border-box;
+  float: left;
+}
+
+.column p {
+  height: 200px;
+  overflow: scroll;
+}
+
+img {
+  margin: auto;
+  width: 250px;
+  height: 200px;
+  display: block;
+}

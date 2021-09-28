@@ -9,7 +9,7 @@
 
 ## Description
 
-_This browser was created for users to see which animals are available for adoption. Each post includes the description, pictures and toys that each animal like._
+_This project shows the utilizations of basic implementation of Git, HTML and CSS._
 
 ## Setup/Installation Requirements
 

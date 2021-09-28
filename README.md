@@ -13,6 +13,10 @@ _This browser was created for users to see which animals are available for adopt
 
 ## Setup/Installation Requirements
 
+* Internet Browser
+* A GitHub Account
+* Code Editor such as VS Code
+
 ## Known Bugs
 
 * N/A

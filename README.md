@@ -6,7 +6,6 @@
 
 * HTML
 * CSS
-* JS
 
 ## Description
 

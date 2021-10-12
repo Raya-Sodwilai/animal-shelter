@@ -17,6 +17,12 @@ _This project shows the utilizations of basic implementation of Git, HTML and CS
 * A GitHub Account
 * Code Editor such as VS Code
 
+## Steps to Open Project
+
+* Select the green button denoting _Code_ and select _Download_
+* Open the folder
+* In the folder, open the index.html folder to open it in your browser 
+
 ## Known Bugs
 
 * N/A

@@ -21,7 +21,7 @@ _This project shows the utilizations of basic implementation of Git, HTML and CS
 
 * Select the green button denoting _Code_ and select _Download_
 * Open the folder
-* In the folder, open the index.html folder to open it in your browser 
+* In the folder, open index.html folder to open it in your browser 
 
 ## Known Bugs
 
@@ -29,7 +29,7 @@ _This project shows the utilizations of basic implementation of Git, HTML and CS
 
 ## License
 
-_MIT Copyright (c) 2021 Raya Sodwilai_
+_MIT Copyright &copy 2021 Raya Sodwilai_
 
 ## Contact Information
 

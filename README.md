@@ -29,7 +29,7 @@ _This project shows the utilizations of basic implementation of Git, HTML and CS
 
 ## License
 
-_MIT Copyright &copy 2021 Raya Sodwilai_
+_MIT Copyright &copy; 2021 Raya Sodwilai_
 
 ## Contact Information
 
